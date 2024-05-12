@@ -26,6 +26,9 @@ One flaw is that when STOP is pressed, the sequence doesn't stop immediately, in
 ### LED connection to PLC
 ![Diagram](https://github.com/fulopbencus/LabView-LED-sequence/blob/main/villamos_kapcsolasi_rajz_LED-ekre.png)
 
+### Ladder
+![Diagram](https://github.com/fulopbencus/LabView-LED-sequence/blob/main/ladder.png)
+
 ## Requirements
 LabVIEW installed:
 Feature Usage Your system must meet the following minimum requirements to run and use LabVIEW. Processor Windows: Pentium 4M (or equivalent) or later (32-bit) Pentium 4 G1 (or equivalent) or later (64-bit) Linux: Pentium 4 G1 (or equivalent) or later RAM Windows: 1 GB Linux: 1 GB
